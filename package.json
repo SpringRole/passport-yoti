@@ -1,0 +1,31 @@
+{
+  "name": "passport-yoti",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "passport-strategy": "^1.0.0",
+    "yoti": "^3.2.0"
+  },
+  "homepage": "https://github.com/SpringRole/passport-yoti",
+  "bugs": {
+    "url": "http://github.com/SpringRole/passport-yoti/issues"
+  },
+  "keywords": [
+    "passport",
+    "yoti",
+    "auth",
+    "authn",
+    "authentication",
+    "identity"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/SpringRole/passport-yoti.git"
+  },
+  "author": "Vinay Agarwal",
+  "license": "MIT"
+}
